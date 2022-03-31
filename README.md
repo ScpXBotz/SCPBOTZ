@@ -67,9 +67,9 @@ Simple WhatsApp Bot
 # THANKS TO 
  [`Baileys`](https://github.com/adiwajshing/Baileys)
 
- [`AlyaXzy`](https://wa.me/6289505165400)
+ [`Iky`](https://wa.me/62882006033256)
 
- [`BOTCAHX`](https://wa.me/6282221792667)
+ [`Scp'X Botz`](https://wa.me/62882006033256)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
